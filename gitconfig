@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = bodineau.nico@gmail.com
+	name = nicolas bodineau
